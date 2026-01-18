@@ -1,0 +1,8 @@
+{
+  "name": "Copy of EduStudio AI",
+  "description": "O'qituvchilar uchun dars rejalari, quizlar va talabalar portallarini AI yordamida yaratuvchi platforma.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
